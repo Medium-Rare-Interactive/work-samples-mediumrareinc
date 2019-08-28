@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="17px" viewBox="0 0 23 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>2060E0B7-3040-46EF-8489-A51D8F535C81</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22.9012346" height="16.3580247" rx="2"></rect>
+    </defs>
+    <g id="OUBARI-GULF" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1202.000000, -23.000000)">
+        <g id="JO" transform="translate(1202.000000, 23.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#F5F5F5" stroke-width="0.5" x="0.25" y="0.25" width="22.4012346" height="15.8580247" rx="2"></rect>
+            </g>
+            <rect id="Rectangle-2" fill="#199E56" mask="url(#mask-2)" x="0" y="10.9053498" width="22.9012346" height="5.4526749"></rect>
+            <rect id="Rectangle-2" fill="#262626" mask="url(#mask-2)" x="0" y="0" width="22.9012346" height="5.4526749"></rect>
+            <polygon id="Rectangle-83" fill="#E6223A" mask="url(#mask-2)" points="0 0 10.9053498 8.17901235 0 16.3580247"></polygon>
+            <polygon id="Star-27" fill="#FFFFFF" mask="url(#mask-2)" points="3.81687243 8.99691358 3.10712434 9.65281944 3.17741149 8.68896542 2.22208294 8.54301264 3.01947768 7.9970122 2.53795056 7.15910619 3.46199838 7.4421088 3.81687243 6.54320988 4.17174647 7.4421088 5.0957943 7.15910619 4.61426717 7.9970122 5.41166191 8.54301264 4.45633336 8.68896542 4.52662052 9.65281944"></polygon>
+        </g>
+    </g>
+</svg>

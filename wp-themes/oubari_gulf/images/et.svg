@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="17px" viewBox="0 0 23 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>4B1CCBF5-3DE4-4762-8645-6065F591CFCB</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22.9012346" height="16.3580247" rx="2"></rect>
+    </defs>
+    <g id="OUBARI-GULF" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1262.000000, -23.000000)">
+        <g id="ET" transform="translate(1262.000000, 23.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <rect id="Rectangle-2" fill="#20AA46" mask="url(#mask-2)" x="0" y="0" width="22.9012346" height="5.4526749"></rect>
+            <rect id="Rectangle-2" fill="#E92F3B" mask="url(#mask-2)" x="0" y="10.9053498" width="22.9012346" height="5.4526749"></rect>
+            <rect id="Rectangle-2" fill="#FADF50" mask="url(#mask-2)" x="0" y="5.4526749" width="22.9012346" height="5.4526749"></rect>
+            <circle id="Oval-95" fill="#205CCA" mask="url(#mask-2)" cx="11.4506173" cy="8.17901235" r="3.81687243"></circle>
+            <path d="M12.4361529,9.53548568 L12.072523,8.38108177 L13.0452473,7.66088564 L11.8349762,7.64998772 L11.4506173,6.50231909 L11.0662584,7.64998772 L9.85598724,7.66088564 L10.8287115,8.38108177 L10.4650817,9.53548568 L11.4506173,8.83292274 L12.4361529,9.53548568 Z" id="Star-8" stroke="#FFDB3D" stroke-width="0.666666667" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
